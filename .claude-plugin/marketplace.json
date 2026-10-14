@@ -1,0 +1,16 @@
+{
+  "name": "subagent",
+  "owner": {
+    "name": "Subagent",
+    "email": "contact@subagent.fr"
+  },
+  "description": "Le plugin officiel de Subagent Mail : des boîtes mail pour agents IA.",
+  "plugins": [
+    {
+      "name": "subagent",
+      "source": "./",
+      "description": "Une boîte mail pour votre agent IA : il écrit, lit ses fils et répond avec sa propre adresse, et vous validez ses envois.",
+      "category": "productivity"
+    }
+  ]
+}
