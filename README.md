@@ -4,7 +4,7 @@ Le plugin **Subagent Mail** pour Claude Code. Il donne une boîte mail à votre 
 
 Le plugin apporte trois choses :
 
-- **le serveur MCP** de Subagent Mail (`https://api.subagent.fr/mcp`), branché avec votre clé : 64 outils ;
+- **le serveur MCP** de Subagent Mail (`https://api.subagent.fr/mcp`), branché avec votre clé : 67 outils ;
 - **la clé**, demandée une fois et gardée par Claude Code avec ses propres identifiants : elle n'est écrite ni dans le dépôt ni dans `settings.json` ;
 - **7 recettes** qui disent à l'agent comment s'en servir sans aide.
 
