@@ -1,3 +1,7 @@
+> **This repository has moved to [escouade-io/escouade-mail-plugins](https://github.com/escouade-io/escouade-mail-plugins).** Subagent is now Escouade Mail; this repository is archived.
+>
+> **Ce dépôt est devenu [escouade-io/escouade-mail-plugins](https://github.com/escouade-io/escouade-mail-plugins).** Subagent devient Escouade Mail ; ce dépôt est archivé.
+
 # subagent-plugins
 
 Le plugin **Subagent Mail** pour Claude Code. Il donne une boîte mail à votre agent : il écrit, lit ses fils et répond avec sa propre adresse, et vous validez ses envois.
